@@ -27,11 +27,13 @@ Technology has always fascinated me. Since I first discovered programming, I kne
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-
-Here you'll find projects that document my learning journey and showcase my growth as a developer.
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastro-H&layout=compact&hide=jupyter%20notebook&theme=tokyonight)
 
-![ALGO](https://github-readme-stats.vercel.app/api?username=JuanCastro-H&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40") 
+
 
 ## Featured Projects
+
+## Featured projects
+
+Below you will find projects that document my learning process and showcase my growth as a developer.
+
