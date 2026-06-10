@@ -30,21 +30,6 @@ Technology has always fascinated me. Since I first discovered programming, I kne
 
 Here you'll find projects that document my learning journey and showcase my growth as a developer.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastro-H&layout=compact)
-
-JuanCastro-H
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastro-H&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastro-H&layout=compact&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastro-H&layout=compact&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastro-H&layout=compact&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastro-H&layout=compact&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastro-H&layout=compact&hide=jupyter%20notebook)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCastro-H&layout=compact&hide=jupyter%20notebook&theme=tokyonight)
 
 ## Featured Projects
