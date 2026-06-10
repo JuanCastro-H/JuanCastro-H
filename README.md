@@ -31,7 +31,22 @@ Technology has always fascinated me. Since I first discovered programming, I kne
 
 
 
-## Featured Projects
+## Upcoming Projects
+
+- 🎮 The Last Cheese
+  Turn-based strategy game powered by Minimax AI.
+
+- 📚 Learn It, Love It
+  Educational platform with CRUD operations, voting system and MVC architecture.
+
+- 📊 ceAnalytics
+  Product analytics and data quality project using Pandas and Matplotlib.
+
+- 🔐 PassPort
+  Secure authentication system with JWT, sessions and RBAC.
+
+- 🧪 The Indestructible Chat
+  Real-time chat application tested with TDD and integration testing.
 
 ## Featured projects
 
